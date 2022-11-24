@@ -11,7 +11,7 @@ The purpose of this project is to assist an up-and-coming playwright, Lousie, pl
 ### Analysis of Outcomes Based on Launch Date
 To gain some insight about the outcomes based on when the theater program was launched, a pivot table was used to show the distribution of outsomes by the month the campaign was launched. To give a more visual view a line graph was created to show the trend.
 Across all categories in general, and theater in particular, it appears that the number of successful campaigns spikes in May and gradually decreases to a low in September before rebounding.  In December, the number of successful and failed campaigns are virtually equal. The campaign outcome could very well be seasonal; in the Spring/Summer, successful campaigns increase because the weather and then vacation season; whereas, in December Holiday activities are prioritized over non-holiday activities. 
-[Theater_Outcomes_vs_Launch.png](https://github.com/ericajackson8/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png))
+[Theater_Outcomes_vs_Launch.png](https://github.com/ericajackson8/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 To gain insight on campaign outcomes based on the goal amount we created a chart to calculate the percentage of each outcome by discrete ranges of goal amount.  We utilize the COUNTIFS to summarize the number of campaigns within each outcome and goal amount range. From here, we created another line chart to provide a visual of the outcome percentages by goal amount.
